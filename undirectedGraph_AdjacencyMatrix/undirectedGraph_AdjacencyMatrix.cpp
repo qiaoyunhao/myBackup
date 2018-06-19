@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//
 #define MAXVEX 100/* 最大顶点数，应由用户定义 */
 #define INFINITY  65535 /* 表示权值的无穷*/
 
